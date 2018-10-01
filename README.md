@@ -1,2 +1,2 @@
 # Python_Template
-This is a folder structure for future python projects
+A folder structure for future python projects
